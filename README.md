@@ -4,7 +4,7 @@
 
 ## 主要镜像网站
 
-### [ChatGPT-Mirrors](https://soruxgpt.top/282.html)
+### [ChatGPT-Mirrors点击这里进入](https://soruxgpt.top/282.html)
 
 **ChatGPT-Mirrors** 是一个免费试用 GPT 的工具系统。注册登录后，您可以免费试用 GPT-4o/Mini 模型。此外，您还可以点击 “续费升级” 来购买套餐，解锁所有高级模型，包括 GPT-4o、GPT-4.0、o1mini 和 o1。这是国内用户体验最新GPT模型的理想选择。
 
